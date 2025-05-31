@@ -6,7 +6,7 @@ Welcome to a modern and interactive version of the classic **Snake & Ladder** ga
 
 👉 [Click here to play the game](https://yourusername.github.io/snake-ladder-game)
 
-> *(Replace `yourusername` with your actual GitHub username after uploading.)*
+> *(Replace `yourusername` with your actual GitHub username before clicking on the option)*
 
 ---
 
