@@ -4,7 +4,7 @@ A modern, animated Snake &amp; Ladder game built with HTML, CSS, and JavaScript.
 Welcome to a modern and interactive version of the classic **Snake & Ladder** game! This web-based version is built using **HTML**, **CSS**, and **JavaScript** and features animations, player inputs, SVG snakes and ladders, and a dynamic winner screen.
 
 
-👉 [Click here to play the game](https://yourusername.github.io/snake-ladder-game)
+👉 [Click here to play the game] (https://yourusername.github.io/snake-ladder-game)
 
 > *(Replace `yourusername` with your actual GitHub username before clicking on the option)*
 
